@@ -1,0 +1,63 @@
+.app-title
+{
+text-align: center;
+color:#000000;
+font-size: 50px;
+
+}
+
+body
+{
+    background:linear-gradient(#00bfff,#00ffbf)
+}
+.app-body
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.contacts-container{
+    background-color: white;
+    height: 500px;
+    width: 400px;
+}
+.add-contacts-container{
+    background-color: white;
+    height: 500px;
+    width: 400px;
+}
+.sub-heading{
+    text-align: center;
+    font-size: 30px;
+}
+
+.user-input
+{
+    display: block;
+    margin: 30px;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 5px;
+    border: 1px solid #e65c00;
+}
+
+.btn-add-contact
+{
+    display: block;
+    font-size: 30px;
+    margin: 30px auto;
+    padding: 10px 30px;
+    background-color: #e65c00;
+    color: burlywood;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-add-contact:hover
+{
+    background-color:chocolate;
+    color: black;
+}
+
+
