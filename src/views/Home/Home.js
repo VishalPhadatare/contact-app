@@ -1,6 +1,6 @@
 import showToast from 'crunchy-toast';
 import React, { useEffect, useState } from 'react';
-import ContactCard from '../../components/ContactCard/ContactCard';
+import ContactCard from '../../Components/ContactCard/ContactCard';
 import "./Home.css";
 
 function Home() {
