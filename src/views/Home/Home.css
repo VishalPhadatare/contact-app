@@ -8,25 +8,19 @@ font-size: 50px;
 
 body
 {
-    background:linear-gradient(#5c08ca,#a83e06)
+    background:aqua
 }
+
+
 .app-body
 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.contacts-container{
-    background-color: white;
-    height: 500px;
-    width: 400px;
-}
-.add-contacts-container{
-    background-color: white;
-    height: 500px;
-    width: 400px;
-}
-.sub-heading{
+
+.sub-heading
+{
     text-align: center;
     font-size: 30px;
 }
@@ -59,5 +53,4 @@ body
     background-color:chocolate;
     color: black;
 }
-
 
